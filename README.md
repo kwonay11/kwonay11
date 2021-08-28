@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kwon Yebeen
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Algorithm and Web Programming
-- 📜 정보처리기사, SQLD, 리눅스마스터
+- 📜 정보처리기사, SQLD, 리눅스마스터 2급
 - 🖥️ 삼성청년SW아카데미 5기
 - ✉️: kwonay11@naver.com
 

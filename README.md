@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kwon Yebeen
+- 👋 Hi, I’m Kwon Yebeen 권예빈 입니다.
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Algorithm and Web Programming
 - 📜 정보처리기사, SQLD, 리눅스마스터 2급
